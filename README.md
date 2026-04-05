@@ -10,7 +10,7 @@
 ## 🔗 Live Demo
 
 Check out the live project here:
-[**Real Estate Live**](https://educore-project-5c1g-d803dg0mu-zaid483s-projects.vercel.app/)
+[**Real Estate Live**](real-estate-react-2ww4.vercel.app)
 
 ---
 
