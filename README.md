@@ -10,7 +10,7 @@
 ## 🔗 Live Demo
 
 Check out the live project here:
-[**Real Estate Live**](https://real-estate-react-2ww4.vercel.app)
+[**Real Estate Live**](real-estate-react-2ww4-git-main-zaid483s-projects.vercel.app)
 
 ---
 
@@ -87,7 +87,7 @@ Example routes include:
 ## 🚀 Deployment
 
 This project is deployed on **Vercel**. Access it here:
-[**Real Estate Live**](https://real-estate-react-2ww4.vercel.app)
+[**Real Estate Live**](real-estate-react-2ww4-git-main-zaid483s-projects.vercel.app)
 
 ---
 
