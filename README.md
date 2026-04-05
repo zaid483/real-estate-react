@@ -10,11 +10,7 @@
 ## 🔗 Live Demo
 
 Check out the live project here:
-<<<<<<< HEAD
-[**Real Estate Live**](real-estate-react-s31x.vercel.app)
-=======
-
-> > > > > > > 49b0a07 (screenshort added commit - Real Estate React Project)
+[**Real Estate Live**](https://real-estate-react-1ksn.vercel.app)
 
 ---
 
