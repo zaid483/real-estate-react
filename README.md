@@ -10,7 +10,7 @@
 ## 🔗 Live Demo
 
 Check out the live project here:
-[**Real Estate Live**](https://real-estate-react-rlzg.vercel.app/)
+[**Real Estate Live**](https://real-estate-react-1ksn.vercel.app)
 
 ---
 
@@ -87,7 +87,7 @@ Example routes include:
 ## 🚀 Deployment
 
 This project is deployed on **Vercel**. Access it here:
-[**Real Estate Live**](https://real-estate-react-rlzg.vercel.app/)
+[**Real Estate Live**](https://real-estate-react-1ksn.vercel.app)
 
 ---
 
