@@ -10,7 +10,11 @@
 ## 🔗 Live Demo
 
 Check out the live project here:
-[**Real Estate Live**](https://real-estate-react-1ksn.vercel.app)
+<<<<<<< HEAD
+[**Real Estate Live**](real-estate-react-s31x.vercel.app)
+=======
+
+> > > > > > > 49b0a07 (screenshort added commit - Real Estate React Project)
 
 ---
 
@@ -87,7 +91,11 @@ Example routes include:
 ## 🚀 Deployment
 
 This project is deployed on **Vercel**. Access it here:
-[**Real Estate Live**](https://real-estate-react-1ksn.vercel.app)
+<<<<<<< HEAD
+[**Real Estate Live**](real-estate-react-s31x.vercel.app)
+=======
+
+> > > > > > > 49b0a07 (screenshort added commit - Real Estate React Project)
 
 ---
 
